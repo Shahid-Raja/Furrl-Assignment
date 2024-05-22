@@ -1,0 +1,8 @@
+// src/pages/Cart.tsx
+import React from 'react';
+
+const Cart: React.FC = () => {
+  return <div>Cart Page</div>;
+};
+
+export default Cart;
